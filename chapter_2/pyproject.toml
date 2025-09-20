@@ -1,0 +1,17 @@
+[project]
+name = "chapter-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "deprecated>=1.2.18",
+    "google-adk>=1.14.1",
+    "google-cloud-aiplatform>=1.115.0",
+    "langchain>=0.3.27",
+    "langchain-google-genai>=2.1.12",
+    "langgraph>=0.6.7",
+    "pydantic>=2.11.9",
+    "langchain-openai>=0.3.33",
+    "nest-asyncio>=1.6.0",
+]
